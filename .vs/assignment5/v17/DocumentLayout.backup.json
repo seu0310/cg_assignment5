@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\arc\\univ\\2025\\2025-1\uD559\uAE30\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4\\hw\\assignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9E8B9-EAEC-4B64-9188-1326F6031639}|Project1\\Project1.vcxproj|C:\\arc\\univ\\2025\\2025-1\uD559\uAE30\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4\\hw\\assignment5\\Project1\\sphere_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72B9E8B9-EAEC-4B64-9188-1326F6031639}|Project1\\Project1.vcxproj|solutionrelative:Project1\\sphere_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sphere_scene.cpp",
+              "DocumentMoniker": "C:\\arc\\univ\\2025\\2025-1\uD559\uAE30\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4\\hw\\assignment5\\Project1\\sphere_scene.cpp",
+              "RelativeDocumentMoniker": "Project1\\sphere_scene.cpp",
+              "ToolTip": "C:\\arc\\univ\\2025\\2025-1\uD559\uAE30\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4\\hw\\assignment5\\Project1\\sphere_scene.cpp",
+              "RelativeToolTip": "Project1\\sphere_scene.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T07:19:05.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

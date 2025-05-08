@@ -1,0 +1,14 @@
+﻿  sphere_scene.cpp
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(62,45): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(63,49): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(270,18): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(270,37): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(270,52): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(270,68): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(275,9): warning C4838: 'const int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(275,9): warning C4305: '초기화 중': 'const int'에서 'unsigned char'(으)로 잘립니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(275,9): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(276,9): warning C4838: 'const int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(276,9): warning C4305: '초기화 중': 'const int'에서 'unsigned char'(으)로 잘립니다.
+C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\Project1\sphere_scene.cpp(276,9): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Project1.vcxproj -> C:\arc\univ\2025\2025-1학기\컴퓨터그래픽스\hw\assignment5\x64\Debug\Project1.exe
